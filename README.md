@@ -6,3 +6,6 @@ Store the model file (frozen_east_text_detection.pb) in the same directory as th
 $ python3 text_detection.py -i [IMAGE ADDRESS] -east [MODEL ADDRESS] -h [HEIGHT (must be multiple of 32)] -w [WIDTH (must be multiple of 32)]
 Only OpenCV version >3.4.3 is supported (preferably 4)
 Install OpenCV-contrib module before setting up the project
+
+
+https://drive.google.com/uc?id=0Bz7KyqmuGsilT0J5dmRCM0ROVHc&export=download
