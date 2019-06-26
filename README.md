@@ -1,5 +1,5 @@
 # EAST-Text-Detection
-This repository detects texts presesnt in images using EAST algorithm implemented with OpenCV3.4+ \n
+This repository detects texts presesnt in images using EAST algorithm implemented with OpenCV3.4+
 Implementation:
 Store the model file (frozen_east_text_detection.pb) in the same directory as the text_detection.py and text_detection_video.py 
 # Running Predictions
